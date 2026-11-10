@@ -1,0 +1,155 @@
+[
+  {
+    "barcode": "055270961124",
+    "name": "Grace Mackerel in Tomato Sauce 5.5oz",
+    "brand": "Grace",
+    "price": 285.00,
+    "wholesaleCost": 210.00,
+    "category": "Canned Goods / Canned Seafood",
+    "imageEmoji": "🐟",
+    "unit": "5.5oz can",
+    "inventory": {
+      "Progressive Foods Portmore": 45,
+      "Progressive Foods Ocho Rios": 0,
+      "Progressive Foods Mandeville": 40,
+      "Progressive Foods Fairview": 5,
+      "Progressive Foods Whitter Village": 15
+    }
+  },
+  {
+    "barcode": "040055531586",
+    "name": "Eve Black Pepper 2.69oz",
+    "brand": "Eve",
+    "price": 300.00,
+    "wholesaleCost": 220.00,
+    "category": "Herbs & Spices / Seasonings",
+    "imageEmoji": "🧂",
+    "unit": "2.69oz bottle",
+    "inventory": {
+      "Progressive Foods Portmore": 0,
+      "Progressive Foods Ocho Rios": 34,
+      "Progressive Foods Mandeville": 56,
+      "Progressive Foods Fairview": 67,
+      "Progressive Foods Whitter Village": 2
+    }
+  },
+  {
+    "barcode": "050196110717",
+    "name": "Simply Natural Coconut Oil 500ml",
+    "brand": "Simply Natural",
+    "price": 540.00,
+    "wholesaleCost": 395.00,
+    "category": "Oils & Vinegars",
+    "imageEmoji": "🥥",
+    "unit": "500ml jar",
+    "inventory": {
+      "Progressive Foods Portmore": 34,
+      "Progressive Foods Ocho Rios": 54,
+      "Progressive Foods Mandeville": 3,
+      "Progressive Foods Fairview": 0,
+      "Progressive Foods Whitter Village": 4
+    }
+  },
+  {
+    "barcode": "8857131311916",
+    "name": "Kendel Whole Kernel Sweet Corn 15oz",
+    "brand": "Kendel",
+    "price": 230.00,
+    "wholesaleCost": 165.00,
+    "category": "Canned Goods / Canned Vegetables",
+    "imageEmoji": "🌽",
+    "unit": "15oz can",
+    "inventory": {
+      "Progressive Foods Portmore": 2,
+      "Progressive Foods Ocho Rios": 89,
+      "Progressive Foods Mandeville": 21,
+      "Progressive Foods Fairview": 23,
+      "Progressive Foods Whitter Village": 54
+    }
+  },
+  {
+    "barcode": "048848846329",
+    "name": "Caribbean Choice Baked beans in Tomato Sauce 14.11oz",
+    "brand": "Caribbean Choice",
+    "price": 134.00,
+    "wholesaleCost": 95.00,
+    "category": "Canned Goods",
+    "imageEmoji": "🥫",
+    "unit": "14.11oz can",
+    "inventory": {
+      "Progressive Foods Portmore": 0,
+      "Progressive Foods Ocho Rios": 0,
+      "Progressive Foods Mandeville": 34,
+      "Progressive Foods Fairview": 78,
+      "Progressive Foods Whitter Village": 20
+    }
+  },
+  {
+    "barcode": "05527085312",
+    "name": "Grace Chicken Vienna Sausages 140g",
+    "brand": "Grace",
+    "price": 134.00,
+    "wholesaleCost": 98.00,
+    "category": "Canned Goods / Canned Meats",
+    "imageEmoji": "🌭",
+    "unit": "140g can",
+    "inventory": {
+      "Progressive Foods Portmore": 2,
+      "Progressive Foods Ocho Rios": 78,
+      "Progressive Foods Mandeville": 34,
+      "Progressive Foods Fairview": 100,
+      "Progressive Foods Whitter Village": 267
+    }
+  },
+  {
+    "barcode": "066613703028",
+    "name": "Brunswick Tuna Flaked in Water 142g",
+    "brand": "Brunswick",
+    "price": 250.00,
+    "wholesaleCost": 180.00,
+    "category": "Canned Goods / Canned Seafood",
+    "imageEmoji": "🐟",
+    "unit": "142g can",
+    "inventory": {
+      "Progressive Foods Portmore": 20,
+      "Progressive Foods Ocho Rios": 34,
+      "Progressive Foods Mandeville": 40,
+      "Progressive Foods Fairview": 15,
+      "Progressive Foods Whitter Village": 45
+    }
+  },
+  {
+    "barcode": "033200011101",
+    "name": "Arm & Hammer Pure baking Soda 1lb",
+    "brand": "Arm & Hammer",
+    "price": 540.00,
+    "wholesaleCost": 390.00,
+    "category": "Baking Essentials",
+    "imageEmoji": "🧁",
+    "unit": "1lb box",
+    "inventory": {
+      "Progressive Foods Portmore": 23,
+      "Progressive Foods Ocho Rios": 0,
+      "Progressive Foods Mandeville": 0,
+      "Progressive Foods Fairview": 10,
+      "Progressive Foods Whitter Village": 5
+    }
+  },
+  {
+    "barcode": "066613164171",
+    "name": "Brunswick Boneless Sardines in Spring Water 106g",
+    "brand": "Brunswick",
+    "price": 345.00,
+    "wholesaleCost": 255.00,
+    "category": "Canned Goods / Canned Seafood",
+    "imageEmoji": "🐟",
+    "unit": "106g can",
+    "inventory": {
+      "Progressive Foods Portmore": 500,
+      "Progressive Foods Ocho Rios": 345,
+      "Progressive Foods Mandeville": 0,
+      "Progressive Foods Fairview": 2,
+      "Progressive Foods Whitter Village": 0
+    }
+  }
+]
